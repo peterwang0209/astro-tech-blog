@@ -9,8 +9,6 @@ tags: ["leetcode", "two_pointer", "coding_technique"]
 
 ### Leetcode 11
 
-ChatGPT
-
 Leetcode 11 lays the groundwork for the "trapping water" problem. To tackle it with the two pointers technique, understanding the conditions under which water gets trapped is essential. This demands a careful analysis of the problem statement. Here, we initiate two pointers, left and right. As we move the left pointer towards the right and vice versa, we simultaneously update the global_max. Given that we employ a while loop for iteration, determining the loop's termination conditions and the modifications to the `left` and `right` pointers is vital. In my approach, the `left` pointer moves if the height at its current position is less than the height at the right pointer. The idea is to seek a taller 'left' height. The converse is true for the `right` pointer.
 A crucial code segment involves calculating the volume. Since the objective is to maximize water trapping, both width and height come into play. Here, height is determined by the lesser of the heights at the current `left` and `right` pointers, while width is simply the difference, `right - left`.
 
