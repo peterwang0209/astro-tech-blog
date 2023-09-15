@@ -1,13 +1,13 @@
 ---
 title: "Two Pointer Study 1"
-publishDate: "12 September 2023"
-description: "Two Pointer technique session 1, displaying three leetcode solution with my thoughts"
-tags: ["leetcode", "two_pointer", "coding_technique"]
+publishDate: "1 August 2023"
+description: "Two Pointer technique session 1, displaying three leetLeetCodecode solution with my thoughts"
+tags: ["LeetCode", "two_pointer", "coding_technique"]
 ---
 
 ## Two Pointer Study - One
 
-### Leetcode 167
+### LeetCode 167
 
 LeetCode 167 is a simple variation of LeetCode 1, the "Two Sum" problem. If the array is sorted, there's no need to use a hash table. Instead, you can use two pointers converging towards the middle.
 

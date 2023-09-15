@@ -1,6 +1,6 @@
 ---
 title: "Two Pointer Study 2 - Trapping Water"
-publishDate: "13 September 2023"
+publishDate: "8 August 2023"
 description: "Two Pointer technique session 2, displaying three leetcode solution with my thoughts, focusing on trapping water problem"
 tags: ["leetcode", "two_pointer", "coding_technique"]
 ---
